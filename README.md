@@ -1,4 +1,6 @@
 # cowsay
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftothimre%2Fcowsay.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftothimre%2Fcowsay?ref=badge_shield)
+
 
 ````
  __________________
@@ -113,3 +115,7 @@ say({
   mode: 'b', // One of 	"b", "d", "g", "p", "s", "t", "w", "y"
 });
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftothimre%2Fcowsay.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftothimre%2Fcowsay?ref=badge_large)
